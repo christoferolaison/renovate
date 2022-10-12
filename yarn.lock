@@ -963,8 +963,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "app-a@workspace:pkgs/pkg-b"
   dependencies:
-    react: ^17
-    react-dom: ^17
+    react: ^17.0.1
+    react-dom: ^17.0.1
   languageName: unknown
   linkType: soft
 
@@ -972,8 +972,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "app-b@workspace:apps/app-b"
   dependencies:
-    react: ^17
-    react-dom: ^17
+    react: ^17.0.1
+    react-dom: ^17.0.1
   languageName: unknown
   linkType: soft
 
@@ -2883,8 +2883,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "pkg-a@workspace:pkgs/pkg-a"
   dependencies:
-    react: ^17
-    react-dom: ^17
+    react: ^17.0.1
+    react-dom: ^17.0.1
   languageName: unknown
   linkType: soft
 
@@ -2946,7 +2946,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-dom@npm:^17, react-dom@npm:^17.0.1":
+"react-dom@npm:^17.0.1":
   version: 17.0.2
   resolution: "react-dom@npm:17.0.2"
   dependencies:
@@ -2966,7 +2966,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react@npm:^17, react@npm:^17.0.1":
+"react@npm:^17.0.1":
   version: 17.0.2
   resolution: "react@npm:17.0.2"
   dependencies:
