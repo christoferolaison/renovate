@@ -2366,7 +2366,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"jest@npm:^28":
+"jest@npm:28.1.3":
   version: 28.1.3
   resolution: "jest@npm:28.1.3"
   dependencies:
@@ -2892,7 +2892,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "pkg-b@workspace:apps/app-a"
   dependencies:
-    jest: ^28
+    jest: 28.1.3
     react: ^17
     react-dom: ^17
   languageName: unknown

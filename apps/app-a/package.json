@@ -8,6 +8,6 @@
     "react-dom": "^17"
   },
   "devDependencies": {
-    "jest": "^28"
+    "jest": "28.1.3"
   }
 }
