@@ -1,6 +1,5 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": ["config:base"],
-  "rangeStrategy": "bump",
-  "includePaths": ["pkgs/pkg-a/package.json", "yarn.lock"]
+  "rangeStrategy": "bump"
 }
