@@ -2893,8 +2893,8 @@ __metadata:
   resolution: "pkg-b@workspace:apps/app-a"
   dependencies:
     jest: ^28
-    react: ^17
-    react-dom: ^17
+    react: ^17.0.1
+    react-dom: ^17.0.1
   languageName: unknown
   linkType: soft
 
@@ -2946,7 +2946,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-dom@npm:^17":
+"react-dom@npm:^17, react-dom@npm:^17.0.1":
   version: 17.0.2
   resolution: "react-dom@npm:17.0.2"
   dependencies:
@@ -2966,7 +2966,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react@npm:^17":
+"react@npm:^17, react@npm:^17.0.1":
   version: 17.0.2
   resolution: "react@npm:17.0.2"
   dependencies:
