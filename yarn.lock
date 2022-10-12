@@ -1341,6 +1341,30 @@ __metadata:
   languageName: node
   linkType: hard
 
+"cookie-parser@npm:1.4.5":
+  version: 1.4.5
+  resolution: "cookie-parser@npm:1.4.5"
+  dependencies:
+    cookie: 0.4.0
+    cookie-signature: 1.0.6
+  checksum: 09b41e191af8e472229b53468b858a53f64a355b438ecb56a38be2a729b862b8233041e5af102115caebae534d399813ec7270b68a949bba3b987b38555c30b6
+  languageName: node
+  linkType: hard
+
+"cookie-signature@npm:1.0.6":
+  version: 1.0.6
+  resolution: "cookie-signature@npm:1.0.6"
+  checksum: f4e1b0a98a27a0e6e66fd7ea4e4e9d8e038f624058371bf4499cfcd8f3980be9a121486995202ba3fca74fbed93a407d6d54d43a43f96fd28d0bd7a06761591a
+  languageName: node
+  linkType: hard
+
+"cookie@npm:0.4.0":
+  version: 0.4.0
+  resolution: "cookie@npm:0.4.0"
+  checksum: 760384ba0aef329c52523747e36a452b5e51bc49b34160363a6934e7b7df3f93fcc88b35e33450361535d40a92a96412da870e1816aba9aa6cc556a9fedd8492
+  languageName: node
+  linkType: hard
+
 "cross-spawn@npm:^7.0.3":
   version: 7.0.3
   resolution: "cross-spawn@npm:7.0.3"
@@ -2883,6 +2907,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "pkg-a@workspace:pkgs/pkg-a"
   dependencies:
+    cookie-parser: 1.4.5
     react: ^17.0.1
     react-dom: ^17.0.1
   languageName: unknown
