@@ -963,8 +963,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "app-a@workspace:pkgs/pkg-b"
   dependencies:
-    react: ^17.0.1
-    react-dom: ^17.0.1
+    react: ^17.0.2
+    react-dom: ^17.0.2
   languageName: unknown
   linkType: soft
 
@@ -972,8 +972,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "app-b@workspace:apps/app-b"
   dependencies:
-    react: ^17.0.1
-    react-dom: ^17.0.1
+    react: ^17.0.2
+    react-dom: ^17.0.2
   languageName: unknown
   linkType: soft
 
@@ -2908,8 +2908,8 @@ __metadata:
   resolution: "pkg-a@workspace:pkgs/pkg-a"
   dependencies:
     cookie-parser: 1.4.5
-    react: ^17.0.1
-    react-dom: ^17.0.1
+    react: ^17.0.2
+    react-dom: ^17.0.2
   languageName: unknown
   linkType: soft
 
@@ -2918,8 +2918,8 @@ __metadata:
   resolution: "pkg-b@workspace:apps/app-a"
   dependencies:
     jest: ^28
-    react: ^17.0.1
-    react-dom: ^17.0.1
+    react: ^17.0.2
+    react-dom: ^17.0.2
   languageName: unknown
   linkType: soft
 
@@ -2971,7 +2971,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-dom@npm:^17.0.1":
+"react-dom@npm:^17.0.2":
   version: 17.0.2
   resolution: "react-dom@npm:17.0.2"
   dependencies:
@@ -2991,7 +2991,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react@npm:^17.0.1":
+"react@npm:^17.0.2":
   version: 17.0.2
   resolution: "react@npm:17.0.2"
   dependencies:
