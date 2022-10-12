@@ -5,6 +5,6 @@
   "license": "MIT",
   "dependencies": {
     "react": "^17",
-    "react-dom": "^17"
+    "react-dom": "^18.0.0"
   }
 }
